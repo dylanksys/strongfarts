@@ -1,0 +1,12 @@
+{
+  "name": "megafart",
+  "description": "thefart",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/strongfarts"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
